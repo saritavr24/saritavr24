@@ -9,7 +9,8 @@ You can use the website to generate badges: https://shields.io/
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sarita-vallejo-05979b206/)
 
 &nbsp;
-
+<picture> <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width = 400px></picture>
+ <p align="center">
 <!-- Talking about you -->
 **About Me:**
 
