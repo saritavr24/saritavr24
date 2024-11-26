@@ -14,7 +14,7 @@ You can use the website to generate badges: https://shields.io/
 **About Me:**
 
 - 🌱 I’m currently learning Data Engineering.
-- 👯 I’m looking to collaborate on anything!
+- 👯 I’m looking to collaborate!
 - 💬 Ask me about anything, I am happy to help.
 - ⚡ Fun-Fact: I was a civil engineering before becoming a Data Scientist.
 - 👨‍💻 How to reach me: __saritavallejor@gmail.com__
@@ -26,11 +26,13 @@ You can use the website to generate badges: https://shields.io/
 <p>
 
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-
-  <br />
-
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
-  <br />
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+  <br />
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></code>
+  <br />
+  
 
 </p>
